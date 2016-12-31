@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffff66",
+        "marker-color": "#ffcc66",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Coolhaus"
@@ -102,7 +102,8 @@
       "properties": {
         "marker-color": "#ffcc66",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Griffith Park"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +135,7 @@
         "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
-        "name": "BRÜ HAUS"
+        "name": "BRUHAUS"
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +212,8 @@
       "properties": {
         "marker-color": "#ffcc66",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Mt. Shasta, CA"
       },
       "geometry": {
         "type": "Point",
@@ -226,7 +228,9 @@
       "properties": {
         "marker-color": "#ffcc66",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Chico, CA",
+        "memory": "Sierra Nevada Brewing Co., Five Mile"
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +245,9 @@
       "properties": {
         "marker-color": "#ffcc66",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Sacramento, CA",
+        "memory": "July 4th, 2014"
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +313,7 @@
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Berkeley, CA",
-        "memory": "QGCon"
+        "memory": "QGCon 2014"
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +411,7 @@
         "marker-color": "#ffcc66",
         "marker-size": "small",
         "marker-symbol": "",
-        "name": "Scotts Valley"
+        "name": "Scotts Valley, CA"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +461,8 @@
         "marker-color": "#ff6666",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Joshua Grindle Inn, Mendocino"
+        "name": "Mendocino, CA",
+        "memory": "Joshua Grindle Inn"
       },
       "geometry": {
         "type": "Point",
@@ -487,7 +494,9 @@
       "properties": {
         "marker-color": "#ffcc66",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Crescent City, CA",
+        "memory": "Down-home diner"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +527,7 @@
         "marker-color": "#ff6666",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "El Prado"
+        "name": "El Prado Bar"
       },
       "geometry": {
         "type": "Point",
@@ -573,6 +582,86 @@
         "coordinates": [
           -477.11254119873047,
           33.109660722085074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffcc66",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Menifee, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.1719360351563,
+          33.688924428426475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffcc66",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Fallbrook, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.25090026855474,
+          33.380426059298046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6666",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Disneyland!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.91917800903326,
+          33.81224331648926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6666",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Anaheim, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.9437255859375,
+          33.813384329112786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6666",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huntington Beach, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.9983139038086,
+          33.68121111121435
         ]
       }
     }
