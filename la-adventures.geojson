@@ -543,6 +543,38 @@
           34.07292412474929
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff6666",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Deer Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.0722007751465,
+          33.184183228576416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffcc66",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Stone Brewing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -477.11254119873047,
+          33.109660722085074
+        ]
+      }
     }
   ]
 }
