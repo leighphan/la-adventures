@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Hack for LA 2013"
@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Ballon Creek Bike Ride"
@@ -115,7 +115,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Sawtelle soondubu"
@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "BRÜ HAUS"
@@ -369,7 +369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#ffcc66",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Sunset Beach"
@@ -418,7 +418,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#ffcc66",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "UC Santa Cruz",
@@ -531,7 +531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ccff66",
+        "marker-color": "#8000ff",
         "marker-size": "small",
         "marker-symbol": "",
         "name": "Echo Park Lake"
