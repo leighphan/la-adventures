@@ -2,6 +2,7 @@ var features = [];
 
 var firstEl = document.querySelector('#first')
 var secondEl = document.querySelector('#second')
+var thirdEl = document.querySelector('#third')
 var buttonEl = document.querySelector('button')
 var outputEl = document.querySelector('#output')
 
@@ -12,10 +13,12 @@ buttonEl.addEventListener('click', function callback(event){
   features.push({
       "type": "Feature",
       "properties": {
-        "marker-color": secondEl,
-        "marker-size": "medium",
+        "marker-color": "#ccff66",
+        "marker-size": "small",
         "marker-symbol": "",
-        "name": "Craft Party"
+        "name": ,
+        "date": second,
+        "note": third,
       },
       "geometry": {
         "type": "Point",
@@ -30,6 +33,3 @@ buttonEl.addEventListener('click', function callback(event){
   second.value = ''
   first.focus ()
 })
-
-
-fn(value, [replacer], [space])
